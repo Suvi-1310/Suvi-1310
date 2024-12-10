@@ -3,7 +3,7 @@ Let me introduce myself...
 
 **Suviksha Pathariya**  
 **DATA ANALYST** 
-[📧 Email Me](mailto:suvikshapathariya45@gmail.com) | [GitHub](https://github.com/Suvi-1310)
+[📧 Email Me](mailto:suvikshapathariya45@gmail.com) | [GitHub](https://github.com/Suvikshapathariya93)
 
 ## 🌟 About Me
 - Passionate Data Analyst with expertise in uncovering insights through data.
@@ -23,8 +23,10 @@ Let me introduce myself...
 - **Visualization Tools**: Tableau, Looker, Power BI
 - **Spreadsheet**: MS Excel, Jupyter Notebook, Google sheet
 
-## 🗂 Projects
-- Check out my Project Portfolio: [My Projects](https://github.com/Suvi-1310?tab=repositories)
+  
+## 📂 Featured Projects
+- Dive into my portfolio to explore detailed case studies: [My Projects](https://github.com/Suvikshapathariya93?tab=repositories)
 
-## 🤝 Let's Connect
+
+## 🤝 Let’s network and collaborate!
 - [LinkedIn | Suviksha Pathariya](https://www.linkedin.com/in/suviksha-pathariya/)
