@@ -10,10 +10,11 @@
 - Believer in the power of data storytelling to drive impactful decisions.
 
 ## Skills Playground
-- **SQL**: Proficient in querying and manipulating data.
-- **Python**: Utilizes Python for data wrangling and advanced analytics.
-- **Excel**: Generates reports and performs data analysis.
-- **Tableau, Power BI and Looker**: Develops interactive dashboards.
+- **SQL:** Expert in crafting complex queries, optimizing database performance, and manipulating data efficiently for actionable insights.
+- **Python:** Skilled in leveraging Python for data cleaning, transformation, exploratory analysis.
+- **Excel:** Proficient in creating dynamic reports, performing in-depth data analysis, and automating workflows with advanced Excel functionalities.
+- **Tableau, Power BI, and Looker:** Specializes in designing intuitive, data-driven dashboards and interactive visualizations to support strategic decision-making and storytelling.
+
 
 ## 🛠 Tech Stack
 - **Languages**: SQL, Python
