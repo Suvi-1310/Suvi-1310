@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 Introducing myself,
 
-<!--
-**Suvi-1310/Suvi-1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Suviksha Pathariya**  
+**DATA ANALYST** 
+[📧 Email Me](mailto:suvikshapathariya45@gmail.com) | [GitHub](https://github.com/Suvi-1310)
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- Passionate Data Analyst with expertise in uncovering insights through data.
+- Avid learner, currently diving deeper into **SQL**, **Python**, **Power BI**.
+- Believer in the power of data storytelling to drive impactful decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills Playground
+- **SQL**: Proficient in querying and manipulating data.
+- **Python**: Utilizes Python for data wrangling and advanced analytics.
+- **Excel**: Generates reports and performs data analysis.
+- **Tableau, Power BI and Looker**: Develops interactive dashboards.
+
+## 🛠 Tech Stack
+- **Languages**: SQL, Python
+- **Databases**: MySQL
+- **Visualization Tools**: Tableau, Looker, Power BI
+- **Spreadsheet**: MS Excel, Jupyter Notebook, Google sheet
+
+## 🗂 Projects
+- Check out my Project Portfolio: [My Projects](https://github.com/Suvi-1310?tab=repositories)
+
+## 🤝 Let's Connect
+- [LinkedIn | Suviksha Pathariya](https://www.linkedin.com/in/suviksha-pathariya/)
